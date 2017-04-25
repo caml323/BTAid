@@ -20,7 +20,7 @@ messages = [{"beaconid": "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
 	"pid": "kosovo", "route": "HWDA", 
 	"phone": 5409981120, "name": "Daulet Talapkaliyev"},
 	{"beaconid": "394CD435-D71C-DCD9-1C8D-1218CE4DFE62", 
-	"pid": "anajahd4", "route": "PRO", 
+	"pid": "anajahd4", "route": "UMS", 
 	"phone": 7577086232, "name": "Anajah Delestre"}]
 
 collection.insert_many(messages)
